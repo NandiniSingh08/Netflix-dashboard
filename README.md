@@ -5,7 +5,7 @@ This project analyzes Netflix content by category, release year, country, and ra
 ---
 
 ## 📊 Dashboard Preview
-![Netflix Dashboard](Netflix_Dashboard.png)
+![Netflix Dashboard](Dashboared 1.png)
 
 ---
 
